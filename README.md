@@ -2,7 +2,7 @@
 
 A configurable jekyll theme for simply beautiful blogs.
 
-**Demo**: [samarsault.com/texture](https://samarsault.com/texture)
+**Demo**: [VietHung103.github.io](https://viethung103.github.io/)
 
 ![texture theme preview](/screen1.png)
 
