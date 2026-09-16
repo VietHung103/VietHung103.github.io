@@ -2,7 +2,7 @@
 layout: post
 title:  "Master in Data Science at University of Lille"
 description: A quick update on beginning my Master's program in Lille.
-date:   2026 - Ongoing
+period:   "2026 - Ongoing"
 categories: DataScience
 ---
 
