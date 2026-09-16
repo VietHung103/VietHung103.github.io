@@ -2,6 +2,7 @@
 layout: post
 title:  "My Undergraduate Journey at USTH"
 period: "2023 - 2026"
+date: 2026-09-16
 ---
 
 I graduated with Excellent Distinction in Data Science from the University of Science and Technology of Hanoi (USTH), completing my studies from 2023 to 2026.

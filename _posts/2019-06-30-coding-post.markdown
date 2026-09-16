@@ -4,6 +4,7 @@ title:  "Master in Data Science at University of Lille"
 description: A quick update on beginning my Master's program in Lille.
 period:   "2026 - Ongoing"
 categories: DataScience
+date: 2026-09-16
 ---
 
 I started my Master's program in Data Science at the University of Lille in September 2026. This marks the beginning of a two-year journey, and I'm currently planning to graduate in 2028.
