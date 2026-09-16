@@ -4,7 +4,7 @@ A configurable jekyll theme for simply beautiful blogs.
 
 **Demo**: [VietHung103.github.io](https://viethung103.github.io/)
 
-![texture theme preview](/VietHung103.github.io/screen1.png)
+![texture theme preview](/screen1.png)
 
 ## License
 
