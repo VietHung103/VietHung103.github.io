@@ -15,7 +15,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: VietHung103
-  tagline: Developer. Designer
+  tagline: Data Science
   date_format: "03/10/2005x`"
   style: black
   showNav: false
