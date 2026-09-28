@@ -1,0 +1,13 @@
+{%- if site.data.skills.size > 0 -%}
+<section id="skills">
+	<h2>Skills</h2>
+	{%- for group in site.data.skills -%}
+	<h3>{{ group.category }}</h3>
+	<ul class="pill-list">
+		{%- for item in group.items -%}
+		<li>{{ item }}</li>
+		{%- endfor -%}
+	</ul>
+	{%- endfor -%}
+</section>
+{%- endif -%}

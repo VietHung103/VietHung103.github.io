@@ -1,0 +1,17 @@
+# Skills shown in the "Skills" section on the homepage.
+# Add, remove, or re-group items freely to match your real skill set.
+- category: Data Science & Machine Learning
+  items:
+    - Machine Learning
+    - Statistics
+    - Large-Scale Data Processing
+
+- category: Robotics & Automation
+  items:
+    - Physical Robotics
+    - Smart Manufacturing Systems
+
+- category: Leadership & Collaboration
+  items:
+    - Team Leadership
+    - Student Organization

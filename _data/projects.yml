@@ -1,0 +1,19 @@
+# Projects shown in the "Projects" section on the homepage.
+# Copy the block below to add another project; delete the placeholder once you have more to add.
+- name: "Denso Hackathon 2025 — Team FPUS"
+  description: >
+    Led team FPUS to a Top 4 finish at the Denso Hackathon 2025, a competition organized
+    by DENSO Vietnam in partnership with FPT. Built physical robotics solutions aimed at
+    transforming traditional factories into smart, automated production environments.
+  role: Team Leader
+  date: 2025
+  tags: [Robotics, Automation, Team Leadership]
+  link: https://densohackathon.vn/post/top-y-tuong-ot-pha-tranh-tai-tai-chung-ket-denso-hackathon-2025
+  image: /assets/img/denso.png
+
+# - name: "Your Next Project"
+#   description: "One or two sentences describing what it does and why it matters."
+#   role: "Your role"
+#   date: 2026
+#   tags: [Tag1, Tag2]
+#   link: https://github.com/your-handle/your-repo

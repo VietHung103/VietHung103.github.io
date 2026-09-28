@@ -1,9 +1,9 @@
 title: VietHung103
-author: GitHub User
-email: abc@domain.com
+author: VietHung103
+email: viethungpc103@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  My first Github webpage based on the /texture theme. This a simple template
-  with some basic features. You can use it to create your own personal website or blog.
+  Personal site of VietHung103 — Data Science student (USTH, University of Lille),
+  sharing my academic path, skills, and projects.
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: /texture
 
@@ -15,19 +15,25 @@ sass:
 permalink: /posts/:title/
 texture:
   title: VietHung103
-  tagline: Data Science
-  date_format: "03/10/2005x`"
+  tagline: Data Science student — bridging applied projects and academic research
+  # Short About-section blurb. Edit freely.
+  bio: >
+    I'm a Data Science student currently pursuing my Master's at the University of Lille,
+    after graduating from the University of Science and
+    Technology of Hanoi (USTH). I'm open to connecting with both industry teams and academic
+    labs working on data-driven problems.
+  # Uncomment and point this at a real image once you have one, e.g. assets/img/profile.jpg
+  # photo: /assets/img/profile.jpg
+  date_format: "%b %Y"
   style: black
   showNav: false
-  showPicker: true
 
   # generate social links in footer
+  # TODO: fill in your real Twitter/X handle and LinkedIn profile slug below
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    github:  VietHung103
     rss: rss
- 
+
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up

@@ -1,4 +1,7 @@
 <div class="container">
+	{%- if site.texture.photo -%}
+	<img class="profile-photo" src="{{ site.texture.photo | relative_url }}" alt="{{ site.texture.title }}">
+	{%- endif -%}
 	<h1>{{ site.texture.title }}</h1>
 	<h2>{{ site.texture.tagline }}</h2>
 	<ul class="social">
