@@ -1,46 +1,36 @@
 # VietHung103.github.io
 
-Source for my personal site, built with Jekyll on a customized version of the
-[texture](https://github.com/samarsault/texture-jekyll) theme. Strict black &
-white theme, showing an About/Skills/Projects/Timeline/Contact page for
-recruiters, professors, and collaborators.
+Welcome to my personal website!
 
-## Local development
+This website is built using a customized version of the [Texture Jekyll Theme](https://github.com/samarsault/texture-jekyll) and is hosted on GitHub Pages.
 
-```
-bundle install
-bundle exec jekyll serve
-```
+The main purpose of this website is to share my academic journey, projects, experiences, and achievements throughout my university studies. I will continue to update it with new experiences, especially during my Master's studies in Data Science.
 
-## How to update content
+**Visit my website:** [https://viethung103.github.io/](https://viethung103.github.io/)
 
-**Add a timeline entry** (education, milestones, updates) — create a new file
-in `_posts/` named `YYYY-MM-DD-slug.markdown` with front matter:
+## Website Preview
 
-```yaml
----
-layout: post
-title:  "Entry title"
-description: One-line summary (optional).
-period:   "2023 - 2026"       # optional, shown on the entry's own page
-categories: SomeTag            # optional
-date: 2026-01-01
----
+The image below shows a preview of my personal website.
 
-Body content in Markdown.
-```
+![Website Preview](preview_page.png)
 
-**Add a skill** — edit `_data/skills.yml`, adding an item to an existing
-`category` group or a new group.
+## About This Website
 
-**Add a project** — edit `_data/projects.yml`, copying the existing entry's
-shape (`name`, `description`, `role`, `date`, `tags`, optional `link`).
+This website includes information about:
 
-**Update identity/photo/bio** — edit the `texture:` block in `_config.yml`:
-`title`, `tagline`, `bio`, `photo` (path to an image under `assets/`, e.g.
-`assets/img/profile.jpg`), `social_links`, and the top-level `email`.
+- **About Me:** My background, education, and interests.
+- **Projects:** Academic and personal projects I have worked on.
+- **Experience:** My internships, research activities, and university experiences.
+- **Achievements:** Important milestones throughout my academic journey.
+
+The website will be regularly updated as I continue my studies and gain new experiences.
+
+## Built With
+
+- [Jekyll](https://jekyllrb.com/) – Static site generator
+- [Texture Jekyll Theme](https://github.com/samarsault/texture-jekyll) – Original website theme
+- [GitHub Pages](https://pages.github.com/) – Website hosting
 
 ## License
 
-The underlying theme is available as open source under the terms of the
-[MIT License](https://opensource.org/licenses/MIT).
+The original Texture Jekyll Theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
